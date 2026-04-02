@@ -103,12 +103,6 @@ Upload any file (txt, pdf, image)
 
 ---
 
-## 🎥 Demo
-
-(Attach video link here)
-
----
-
 ## 🤖 AI Usage
 
 Used AI tools for guidance, debugging, and structuring the project.
